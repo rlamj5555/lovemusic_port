@@ -124,5 +124,17 @@ a.mimic{color: crimson;}
 a.mimic:hover{text-decoration: underline; font-weight: 800;}
 
 p.note{margin-left: 190px;}
-img.note{width: 200px; border: 1px solid red;}
-span.note{width: 200px; font-weight: 15px; text-align: center;}
+img.note{margin-right: 15px; width: 200px; border: 1px solid gray;}
+
+p.note>a>img:hover{opacity: 0.4; border:1px solid crimson;} 
+
+p.note>a>span.note_line{display: inline-block;margin-top:8px;margin-right: 15px; width: 200px; text-align: center; font-family: 'nanumgothic'; font-size: 16px;font-weight:600;}
+
+p.note>a>span.note_line:hover{color: crimson;}
+
+span.note_crimson{color: crimson; font-weight: 700; text-decoration: underline;}
+
+a.hyper_note{text-decoration: underline;}
+a.hyper_note:hover{color: crimson; font-weight: 800;}
+
+div.hobby{margin-top: 100px;}
