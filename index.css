@@ -107,7 +107,7 @@ div.para_frst>div.para_1>audio{margin-bottom: 20px;}
 div.para_sec>div.para_2>h4{ margin-bottom: 10px; margin-left: 10px;}
 div.para_sec>div.para_2>audio{margin-bottom: 20px;}
 
-div.para_frst{float: right; margin-right: 400px; padding-left: 150px;height: 280px; border: 1px solid transparent; border-left-color: gray; }
+div.para_frst{float: right; margin-right: 400px; padding-left: 150px;height: 200px; border: 1px solid transparent; border-left-color: gray; }
 div.para_sec{margin-left: 180px;}
 
 h3.record{margin-left: 160px; margin-bottom: 30px; margin-top:50px;  font-size: 37px; font-weight: 100; color: crimson;}
