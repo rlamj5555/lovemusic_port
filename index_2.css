@@ -7,7 +7,7 @@ audio{width: 300px; height: 50px;}
 
 header{width: 1516px; height: 40px; font-family: 'nanumgothic'; background-color: black;}
 
-header>ul.tp_bar>li>a{display: inline-block; float: right; margin-right: 20px; margin-top: 8px; width: 80px; height: 25px; font-size: 18px;color: black; font-weight: 600; text-align: center; line-height: 24px; background-color: white; border-radius: 10%}
+header>ul.tp_bar>li>a{display: inline-block; float: right; margin-right: 20px; margin-top: 8px; width: 80px; height: 25px; font-size: 18px;color: black; font-weight: 600;text-align: center; line-height: 24px; background-color: white; border-radius: 10%}
 
 p.info{text-align: right; margin-right: 20px; margin-top: 235px; color: rgba(255,255,255,0.6); line-height: 16px;}
 ul.tp_bar>li>a:hover{color: white; background-color: crimson; }
@@ -123,6 +123,3 @@ div.record>p.desc{font-size: 15px; line-height: 25px; margin-bottom: 30px; margi
 a.mimic{color: crimson;}
 a.mimic:hover{text-decoration: underline; font-weight: 800;}
 
-p.note{margin-left: 190px;}
-img.note{width: 200px; border: 1px solid red;}
-span.note{width: 200px; font-weight: 15px; text-align: center;}
